@@ -25,6 +25,7 @@ Thumbs.db
 *.xls
 *.sav
 *.sas7bdat
+ENAHO_employment.dta
 
 # Resultados o figuras que se pueden volver a generar
 *.png
