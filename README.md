@@ -121,7 +121,8 @@ do scripts/3_oaxaca_wage.do
 
 ## 👥 Autores
 
-- **María José Mesías**  
-- **Julián López Céspedes**
+- [**María José Mesías**](https://www.linkedin.com/in/majomesias/)
+- [**Julián López Céspedes**](https://www.linkedin.com/in/juli%C3%A1n-l%C3%B3pez-c%C3%A9spedes-07a043244/)
+
 
 ---
