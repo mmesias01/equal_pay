@@ -1,0 +1,40 @@
+# Archivos temporales de Stata
+*.smcl       # logs en formato SMCL
+*.log        # logs de texto
+*.stpr       # project files temporales
+*.stsem      # outputs de SEM
+*.stprj      # archivos de proyecto de Stata (opcional)
+
+# Archivos de backup
+*~
+*.bak
+*.tmp
+
+# Directorios ocultos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché
+*.stata.tmp
+*.stata.lock
+
+# Archivos de exportación que pueden regenerarse
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.sas7bdat
+
+# Resultados o figuras que se pueden volver a generar
+*.png
+*.jpg
+*.pdf
+
+# Configuración de editores
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.ipynb_checkpoints/
+.vscode/
+.idea/
