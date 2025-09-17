@@ -1,6 +1,6 @@
 # Equal Pay: Brechas Salariales de Género en Perú (ENAHO)
 
-Este proyecto estima la brecha salarial entre **hombres y mujeres** en Perú usando microdatos de **ENAHO** y descomposición **Oaxaca-Blinder**. Se construyen datasets “slim” desde módulos individuales, hogar, empleo y educación, y se ejecutan modelos para la PEA ocupada y para asalariados.
+Este proyecto estima la brecha salarial entre **hombres y mujeres** en Perú usando microdatos de **ENAHO 2024** y descomposición **Oaxaca-Blinder**. Se construyen datasets “slim” desde módulos individuales, hogar, empleo y educación, y se ejecutan modelos para la PEA ocupada y para asalariados.
 
 ## 📂 Estructura del repositorio
 
