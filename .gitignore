@@ -17,6 +17,7 @@ Thumbs.db
 # Archivos de caché
 *.stata.tmp
 *.stata.lock
+*.stswp
 
 # Archivos de exportación que pueden regenerarse
 *.csv
